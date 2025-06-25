@@ -60,7 +60,7 @@ dinâmica de países)
 ## Deploy
 
 O projeto pode ser visto publicamente via GitHub Pages em:
-https://github.com/PWEB-2425/AP_forms_31791_29510.git
+https://pweb-2425.github.io/AP_forms_31791_29510/
 
 ## Autor
 
