@@ -33,7 +33,7 @@ dinâmica de países)
 1. **Clonar o repositório:**
    
    git clone:
-   https://github.com/PWEB-2425/AP_forms_hugocarvalho31791.git
+   https://github.com/PWEB-2425/AP_forms_31791_29510.git
 
 2. **Abrir a pasta do projeto.**
 
@@ -60,7 +60,7 @@ dinâmica de países)
 ## Deploy
 
 O projeto pode ser visto publicamente via GitHub Pages em:
-https://github.com/PWEB-2425/AP_forms_hugocarvalho31791.git
+https://github.com/PWEB-2425/AP_forms_31791_29510.git
 
 ## Autor
 
